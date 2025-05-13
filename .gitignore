@@ -1,3 +1,4 @@
 spdem
 .env
 __pycache__
+chroma_db
