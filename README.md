@@ -2,7 +2,10 @@
 
 WebRAG Assistant is a powerful tool that enables conversational interaction with website content using cutting-edge AI and Retrieval-Augmented Generation (RAG) technology. Simply provide a URL, and our tool will crawl, index, and allow you to ask questions about any website's content.
 
-![WebRAG Assistant Screenshot](https://i.imgur.com/placeholder.png)
+![Image](https://github.com/user-attachments/assets/d4ea6d89-1327-4ec4-a62f-7b1e0a3d7b21)
+
+![Image](https://github.com/user-attachments/assets/821a72c6-7d7c-472e-8967-06dd872f1b9d)
+
 
 ## Features
 
