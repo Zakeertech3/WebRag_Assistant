@@ -1,10 +1,22 @@
-firecrawl-py
-firecrawl
-langchain
-langchain-community
-langchain-groq
-groq
-sentence-transformers
-chromadb
-streamlit
-python-dotenv
+# WebRAG Assistant Requirements
+# Last Updated: May 2025
+
+# Core RAG Framework Components
+firecrawl-py        # Modern web crawler with JavaScript rendering support
+firecrawl           # FireCrawl API integration for content extraction
+langchain           # RAG orchestration framework and utilities
+langchain-community # Community extensions for LangChain
+langchain-groq      # Groq integration for LangChain
+
+# AI/ML Components
+groq                # Groq API client for LLM access
+sentence-transformers # Text embedding model with strong performance
+
+# Storage and Persistence
+chromadb      # Vector database for semantic search
+
+# Web Application
+streamlit         # Web interface framework for UI components
+
+# Utilities
+python-dotenv       # Environment variable management for configuration
