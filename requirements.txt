@@ -1,0 +1,10 @@
+firecrawl-py
+firecrawl
+langchain
+langchain-community
+langchain-groq
+groq
+sentence-transformers
+chromadb
+streamlit
+python-dotenv
