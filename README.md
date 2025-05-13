@@ -69,8 +69,8 @@ Groq's implementation of Llama 3 powers the answer generation:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/webrag-assistant.git
-cd webrag-assistant
+git clone https://github.com/Zakeertech3/WebRag_Assistant.git
+cd webRag_assistant
 ```
 
 2. Create a virtual environment:
